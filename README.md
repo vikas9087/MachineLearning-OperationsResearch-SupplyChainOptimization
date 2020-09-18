@@ -2,7 +2,7 @@
 This work explains how OR and ML in tandem can help us making a cost efficient decisions. I have used a Supply Chain Network Design use case to explain benefits of ML+OR together.
 
 ## Problem Statement
-Comapny __A__ sell the __Finished Good (FG)__ to its customers. The FG is made of __Part-1__ and __Part-2__. Part-1 is manufactured at location $`\mathbb{LOC}`$ and Part-2 is sourced from a supplier. Then Part-1 & Part-2 is assembled, this assembly of the products involve certain cost.
+Comapny __A__ sell the __Finished Good (FG)__ to its customers. The FG is made of __Part-1__ and __Part-2__. Part-1 is manufactured at location LOC and Part-2 is sourced from a supplier. Then Part-1 & Part-2 is assembled, this assembly of the products involve certain cost.
 <br>
 
 
