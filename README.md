@@ -17,7 +17,7 @@ This file explains the mathematical modeling and executeable python script. Plea
 
 2. __Distribution Centres Data__:
  > __df_DC__: This is a dataframe for the data related to Distribution Centres. It shall have columns in the order of <font color=blue>['DC ID', 'Latitude', 'Longitude', 'Assemb', 'Fixed', 'q0', 'c0', 'q1_old', 'c1', 'q2_old', 'c2']</font>  where:
-   * DC ID, Latitude, Longitude: Represent the ID and geographical coordinates for each of the Distributed Centre location.
-   * Assemb: Unit Assembly Cost of a FG at each DC
-   * Fixed: Represent the fixed cost of operating the DC having initial capacity __q0__
-   * c0, c1, c2: Unit Cost of exceeding the capacities q0, q1_old, q2_old respectively where q2_old > q1_old > q0.
+  > * DC ID, Latitude, Longitude: Represent the ID and geographical coordinates for each of the Distributed Centre location.
+  > * Assemb: Unit Assembly Cost of a FG at each DC
+  > * Fixed: Represent the fixed cost of operating the DC having initial capacity __q0__
+  > * c0, c1, c2: Unit Cost of exceeding the capacities q0, q1_old, q2_old respectively where q2_old > q1_old > q0.
