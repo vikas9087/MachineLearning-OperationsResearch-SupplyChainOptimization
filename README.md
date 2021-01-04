@@ -24,7 +24,7 @@ This file explains the mathematical modelling using python script. Please note t
   
 2. __Distribution Centres Data__: A DC is a facility that is usually smaller than a firm's main warehouse and is used for receipt, temporary storage, and redistribution of goods according to the customer orders as they are received. The DC has a capacity upto which it can receive the maximum number of units. This is also a decision variable as what shall be the capacity of a DC. Further, to operate the DC, company incurs some cost recognised as the operating cost. Operating costs usually consist of a fixed cost and variable cost. The fixed cost is applicable upto a certain capacity called as initial capacity. For any capacity exceeding the initial capacity, marginal operating costs are applied. Below I describe how to prepare the data file for DCs.  
 
-Read more: http://www.businessdictionary.com/definition/distribution-center.html
+Read more about distribution center here: https://en.wikipedia.org/wiki/Distribution_center
  > __df_DC__: This is a dataframe for the data related to DCs. It shall have columns in the order of <font color=blue>['DC ID', 'Latitude', 'Longitude', 'Assemb', 'Fixed', 'q0', 'c0', 'q1_old', 'c1', 'q2_old', 'c2']</font>  where: 
  
   > * __DC ID, Latitude, Longitude__: Attributes similar to customers data for each of the locations for DC.
