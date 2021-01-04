@@ -8,6 +8,10 @@ Comapny __A__ sell the __Finished Good (FG)__ to its customers. The FG is made o
 
 Once the product is assembled, it is shipped to the customers using parcel delivery. Now the company __A__ is looking to establish the Distribution centers (DCs) to benefit from economies of scale shippment to DC and different assembly costs at different DC. The main objective is to idetify the number and location of DCs to located across the country at a minimum total cost. The total cost includes the operating cost of DC, assembly cost, and shipment costs.
 
+## Locations of the DC
+
+![Proposed DC when preferred locations are used](Before Clustering.png)
+
 ## CodeFile
 This file explains the mathematical modelling using python script. Please note that the data has been anonymized for confidential reasons. However I have defined the guidelines and description how to prepare the data for execution of the script.
 
